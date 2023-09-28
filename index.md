@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-hi
+chia sẻ là học tập
